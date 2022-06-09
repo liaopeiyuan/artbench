@@ -18,8 +18,10 @@ See `artbench.py` for PyTorch usage.
 If you find the work useful in your research, please consider citing:
 
 ```
-@misc{ artbench,
-       author = "Peiyuan Liao and Xiuyu Li and Xihui Liu and Kurt Keutzer",
-       title = "The ArtBench Dataset: Benchmarking Generative Models with Artworks",
-       year = "2022" }
+@misc{artbench,
+  author = {Peiyuan Liao and Xiuyu Li and Xihui Liu and Kurt Keutzer},
+  title  = {The ArtBench Dataset: Benchmarking Generative Models with Artworks},
+  year   = {2022},
+  url    = {https://github.com/liaopeiyuan/artbench}
+}
 ```
