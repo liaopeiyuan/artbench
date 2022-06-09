@@ -8,6 +8,7 @@ Peiyuan Liao*, Xiuyu Li*, Xihui Liu, Kurt Keutzer
 * 32x32 a-la-CIFAR-binary: https://drive.google.com/file/d/1e7AYlDLKhjoww1HGAF2cvQOn2ddju6tW/view?usp=sharing 
 * 256x256 a-la-ImageFolder: https://drive.google.com/file/d/1Tx55Nn_zbkjSpIX_9mfQ8LWzbJZlihBN/view?usp=sharing
 * original size a-la-LSUN, per-style: https://drive.google.com/drive/folders/1gWdbot6wfmvsI1UDY8WC_-vkZsK9VEhM?usp=sharing 
+* Kaggle: https://www.kaggle.com/datasets/alexanderliao/artbench10
 
 ## Using
 
