@@ -15,7 +15,7 @@ ArtBench-10 has several advantages over previous artwork datasets:
 We provide three versions of the dataset with different resolutions (32 x 32, 256 x 256, and original image size), formatted in a way that is easy to be incorporated by popular machine learning frameworks.
 ## Accessing Dataset (Google Drive)
 
-* [Metadata](https://drive.google.com/file/d/18B35DO8AONK6x-mBbvboOrqPZOzrKwev/view?usp=sharing) as a pandas DataFrame
+* [Metadata](https://drive.google.com/file/d/18B35DO8AONK6x-mBbvboOrqPZOzrKwev/view?usp=sharing) as a csv file
 * [32x32 CIFAR-python:](https://drive.google.com/file/d/11uXZ49N4yxbKVmV48NrOIp2XvCy1LwUo/view?usp=sharing) works seamlessly with implementations using [the CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
 * [32x32 CIFAR-binary:](https://drive.google.com/file/d/1e7AYlDLKhjoww1HGAF2cvQOn2ddju6tW/view?usp=sharing) great compatibility with C programs, [tensorflow-datasets](https://www.tensorflow.org/datasets), etc.
 * [256x256 ImageFolder](https://drive.google.com/file/d/1Tx55Nn_zbkjSpIX_9mfQ8LWzbJZlihBN/view?usp=sharing) works seamlessly with PyTorch Vision's [ImageFolder implementation](https://pytorch.org/vision/stable/generated/torchvision.datasets.ImageFolder.html)
