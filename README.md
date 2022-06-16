@@ -2,6 +2,7 @@
 Peiyuan Liao*, Xiuyu Li*, Xihui Liu, Kurt Keutzer
 
 Preprint: https://www.andrew.cmu.edu/user/peiyuanl/ArtBench.pdf
+
 Kaggle: https://www.kaggle.com/datasets/alexanderliao/artbench10
 
 ArtBench-10 is the first class-balanced, high-quality, cleanly annotated, and standardized dataset for benchmarking artwork generation. It comprises 60,000 images of artwork from 10 distinctive artistic styles, with 5,000 training images and 1,000 testing images per style. 
