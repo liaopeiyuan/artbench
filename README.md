@@ -19,7 +19,7 @@ We provide three versions of the dataset with different resolutions (32 x 32, 25
 * [32x32 CIFAR-python:](https://drive.google.com/file/d/11uXZ49N4yxbKVmV48NrOIp2XvCy1LwUo/view?usp=sharing) works seamlessly with implementations using [the CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
 * [32x32 CIFAR-binary:](https://drive.google.com/file/d/1e7AYlDLKhjoww1HGAF2cvQOn2ddju6tW/view?usp=sharing) great compatibility with C programs, [tensorflow-datasets](https://www.tensorflow.org/datasets), etc.
 * [256x256 ImageFolder](https://drive.google.com/file/d/1Tx55Nn_zbkjSpIX_9mfQ8LWzbJZlihBN/view?usp=sharing) works seamlessly with PyTorch Vision's [ImageFolder implementation](https://pytorch.org/vision/stable/generated/torchvision.datasets.ImageFolder.html)
-* [original size LSUN, per-style](https://drive.google.com/drive/folders/1gWdbot6wfmvsI1UDY8WC_-vkZsK9VEhM?usp=sharing) works seamlessly with implementations using [LSUN datasets](https://www.yf.io/p/lsun)
+* [original size LSUN, per-style:](https://drive.google.com/drive/folders/1gWdbot6wfmvsI1UDY8WC_-vkZsK9VEhM?usp=sharing) works seamlessly with implementations using [LSUN datasets](https://www.yf.io/p/lsun)
 
 ## Using
 
