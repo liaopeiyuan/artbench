@@ -1,9 +1,12 @@
-# The ArtBench Dataset: Benchmarking Generative Models with Artworks
-Peiyuan Liao*, Xiuyu Li*, Xihui Liu, Kurt Keutzer
+# ArtBench
 
-Preprint: https://www.andrew.cmu.edu/user/peiyuanl/ArtBench.pdf
+![PyTorch Usage](assets/example.png)
 
-Kaggle: https://www.kaggle.com/datasets/alexanderliao/artbench10
+### [Preprint](https://www.andrew.cmu.edu/user/peiyuanl/ArtBench.pdf) | [Kaggle](https://www.kaggle.com/datasets/alexanderliao/artbench10)
+
+**The ArtBench Dataset: Benchmarking Generative Models with Artworks**<br/>
+[Peiyuan Liao*](https://liaopeiyuan.com/), [Xiuyu Li*](https://www.xiuyuli.com/), [Xihui Liu](https://xh-liu.github.io/), [Kurt Keutzer](http://people.eecs.berkeley.edu/~keutzer/)<br/>
+\* equal contribution
 
 ArtBench-10 is the first class-balanced, high-quality, cleanly annotated, and standardized dataset for benchmarking artwork generation. It comprises 60,000 images of artwork from 10 distinctive artistic styles, with 5,000 training images and 1,000 testing images per style. 
 
