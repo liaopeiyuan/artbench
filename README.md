@@ -2,10 +2,10 @@
 
 ![PyTorch Usage](assets/example.png)
 
-### [Preprint](https://arxiv.org/abs/2206.11404) | [Kaggle](https://www.kaggle.com/datasets/alexanderliao/artbench10)
+### [Preprint](https://arxiv.org/abs/2206.11404) | [Kaggle](https://www.kaggle.com/datasets/alexanderliao/artbench10) | [Papers With Code](https://paperswithcode.com/dataset/artbench-10)
 
 **The ArtBench Dataset: Benchmarking Generative Models with Artworks**<br/>
-[Peiyuan Liao*](https://liaopeiyuan.com/), [Xiuyu Li*](https://www.xiuyuli.com/), [Xihui Liu](https://xh-liu.github.io/), [Kurt Keutzer](http://people.eecs.berkeley.edu/~keutzer/)<br/>
+[Peiyuan Liao*](https://liaopeiyuan.com/), [Xiuyu Li*](https://xiuyuli.com/), [Xihui Liu](https://xh-liu.github.io/), [Kurt Keutzer](http://people.eecs.berkeley.edu/~keutzer/)<br/>
 \* equal contribution
 
 ArtBench-10 is the first class-balanced, high-quality, cleanly annotated, and standardized dataset for benchmarking artwork generation. It comprises 60,000 images of artwork from 10 distinctive artistic styles, with 5,000 training images and 1,000 testing images per style. 
