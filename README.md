@@ -36,10 +36,14 @@ See `artbench.py` for PyTorch usage. *You only need ~20 lines of code to start u
 If you find the work useful in your research, please consider citing:
 
 ```bibtex
-@article{liao2022artbench,
-    title={The ArtBench Dataset: Benchmarking Generative Models with Artworks},
-    author={Liao, Peiyuan and Li, Xiuyu and Liu, Xihui and Keutzer, Kurt},
-    journal={arXiv preprint arXiv:2206.11404},
-    year={2022},
+@misc{https://doi.org/10.48550/arxiv.2206.11404,
+  doi = {10.48550/ARXIV.2206.11404},
+  url = {https://arxiv.org/abs/2206.11404},
+  author = {Liao, Peiyuan and Li, Xiuyu and Liu, Xihui and Keutzer, Kurt}, 
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {The ArtBench Dataset: Benchmarking Generative Models with Artworks},
+  publisher = {arXiv},
+  year = {2022}, 
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
