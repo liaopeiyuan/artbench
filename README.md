@@ -31,15 +31,15 @@ See `artbench.py` for PyTorch usage. *You only need ~20 lines of code to start u
 
 ![PyTorch Usage](assets/pytorch_usage.png)
 
-## Citing
+## Citation
 
 If you find the work useful in your research, please consider citing:
 
-```
-@misc{artbench,
-  author = {Peiyuan Liao and Xiuyu Li and Xihui Liu and Kurt Keutzer},
-  title  = {The ArtBench Dataset: Benchmarking Generative Models with Artworks},
-  year   = {2022},
-  url    = {https://github.com/liaopeiyuan/artbench}
+```bibtex
+@article{liao2022artbench,
+    title={The ArtBench Dataset: Benchmarking Generative Models with Artworks},
+    author={Liao, Peiyuan and Li, Xiuyu and Liu, Xihui and Keutzer, Kurt},
+    journal={arXiv preprint arXiv:2206.11404},
+    year={2022},
 }
 ```
