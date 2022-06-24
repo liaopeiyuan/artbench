@@ -2,7 +2,7 @@
 
 ![PyTorch Usage](assets/example.png)
 
-### [Preprint](https://www.andrew.cmu.edu/user/peiyuanl/ArtBench.pdf) | [Kaggle](https://www.kaggle.com/datasets/alexanderliao/artbench10)
+### [Preprint](https://arxiv.org/abs/2206.11404) | [Kaggle](https://www.kaggle.com/datasets/alexanderliao/artbench10)
 
 **The ArtBench Dataset: Benchmarking Generative Models with Artworks**<br/>
 [Peiyuan Liao*](https://liaopeiyuan.com/), [Xiuyu Li*](https://www.xiuyuli.com/), [Xihui Liu](https://xh-liu.github.io/), [Kurt Keutzer](http://people.eecs.berkeley.edu/~keutzer/)<br/>
