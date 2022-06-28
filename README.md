@@ -22,7 +22,7 @@ We provide three versions of the dataset with different resolutions (32 x 32, 25
 * [Metadata](https://drive.google.com/file/d/18B35DO8AONK6x-mBbvboOrqPZOzrKwev/view?usp=sharing) as a csv file
 * [32x32 CIFAR-python:](https://drive.google.com/file/d/11uXZ49N4yxbKVmV48NrOIp2XvCy1LwUo/view?usp=sharing) works seamlessly with implementations using [the CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
 * [32x32 CIFAR-binary:](https://drive.google.com/file/d/1e7AYlDLKhjoww1HGAF2cvQOn2ddju6tW/view?usp=sharing) great compatibility with C programs, [tensorflow-datasets](https://www.tensorflow.org/datasets), etc.
-* [256x256 ImageFolder](https://drive.google.com/file/d/1Tx55Nn_zbkjSpIX_9mfQ8LWzbJZlihBN/view?usp=sharing) works seamlessly with PyTorch Vision's [ImageFolder implementation](https://pytorch.org/vision/stable/generated/torchvision.datasets.ImageFolder.html)
+* [256x256 ImageFolder](https://drive.google.com/file/d/1Tx55Nn_zbkjSpIX_9mfQ8LWzbJZlihBN/view?usp=sharing), [256x256 ImageFolder with train-test split](https://drive.google.com/file/d/1W4fqHK8bk34UCepndk3Fd9qflhVzj9c1/view?usp=sharing) (**recommended**) work seamlessly with PyTorch Vision's [ImageFolder implementation](https://pytorch.org/vision/stable/generated/torchvision.datasets.ImageFolder.html)
 * [original size LSUN, per-style:](https://drive.google.com/drive/folders/1gWdbot6wfmvsI1UDY8WC_-vkZsK9VEhM?usp=sharing) works seamlessly with implementations using [LSUN datasets](https://www.yf.io/p/lsun)
 
 ## Using
@@ -36,14 +36,10 @@ See `artbench.py` for PyTorch usage. *You only need ~20 lines of code to start u
 If you find the work useful in your research, please consider citing:
 
 ```bibtex
-@misc{https://doi.org/10.48550/arxiv.2206.11404,
-  doi = {10.48550/ARXIV.2206.11404},
-  url = {https://arxiv.org/abs/2206.11404},
-  author = {Liao, Peiyuan and Li, Xiuyu and Liu, Xihui and Keutzer, Kurt}, 
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {The ArtBench Dataset: Benchmarking Generative Models with Artworks},
-  publisher = {arXiv},
-  year = {2022}, 
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@article{liao2022artbench,
+  title={The ArtBench Dataset: Benchmarking Generative Models with Artworks},
+  author={Liao, Peiyuan and Li, Xiuyu and Liu, Xihui and Keutzer, Kurt},
+  journal={arXiv preprint arXiv:2206.11404},
+  year={2022}
 }
 ```
