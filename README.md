@@ -19,10 +19,10 @@ ArtBench-10 has several advantages over previous artwork datasets:
 We provide three versions of the dataset with different resolutions (32 x 32, 256 x 256, and original image size), formatted in a way that is easy to be incorporated by popular machine learning frameworks.
 ## Accessing Dataset (Google Drive)
 
-* [Metadata](https://drive.google.com/file/d/18B35DO8AONK6x-mBbvboOrqPZOzrKwev/view?usp=sharing) as a csv file
-* [32x32 CIFAR-python:](https://drive.google.com/file/d/11uXZ49N4yxbKVmV48NrOIp2XvCy1LwUo/view?usp=sharing) works seamlessly with implementations using [the CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
-* [32x32 CIFAR-binary:](https://drive.google.com/file/d/1e7AYlDLKhjoww1HGAF2cvQOn2ddju6tW/view?usp=sharing) great compatibility with C programs, [tensorflow-datasets](https://www.tensorflow.org/datasets), etc.
-* [256x256 ImageFolder](https://drive.google.com/file/d/1Tx55Nn_zbkjSpIX_9mfQ8LWzbJZlihBN/view?usp=sharing), [256x256 ImageFolder with train-test split](https://drive.google.com/file/d/1W4fqHK8bk34UCepndk3Fd9qflhVzj9c1/view?usp=sharing) (**recommended**) work seamlessly with PyTorch Vision's [ImageFolder implementation](https://pytorch.org/vision/stable/generated/torchvision.datasets.ImageFolder.html)
+* [Metadata](https://artbench.eecs.berkeley.edu/files/ArtBench-10.csv) as a csv file
+* [32x32 CIFAR-python:](https://artbench.eecs.berkeley.edu/files/artbench-10-python.tar.gz) works seamlessly with implementations using [the CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
+* [32x32 CIFAR-binary:](https://artbench.eecs.berkeley.edu/files/artbench-10-binary.tar.gz) great compatibility with C programs, [tensorflow-datasets](https://www.tensorflow.org/datasets), etc.
+* [256x256 ImageFolder](https://artbench.eecs.berkeley.edu/files/artbench-10-imagefolder.tar), [256x256 ImageFolder with train-test split](https://artbench.eecs.berkeley.edu/files/artbench-10-imagefolder-split.tar) (**recommended**) work seamlessly with PyTorch Vision's [ImageFolder implementation](https://pytorch.org/vision/stable/generated/torchvision.datasets.ImageFolder.html)
 * [original size LSUN, per-style:](https://drive.google.com/drive/folders/1gWdbot6wfmvsI1UDY8WC_-vkZsK9VEhM?usp=sharing) works seamlessly with implementations using [LSUN datasets](https://www.yf.io/p/lsun)
 
 ## Using
