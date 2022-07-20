@@ -17,7 +17,7 @@ ArtBench-10 has several advantages over previous artwork datasets:
 * it is created with **standardized** data collection, annotation, filtering, and preprocessing procedures. 
 
 We provide three versions of the dataset with different resolutions (32 x 32, 256 x 256, and original image size), formatted in a way that is easy to be incorporated by popular machine learning frameworks.
-## Accessing Dataset (Google Drive)
+## Accessing Dataset
 
 * [Metadata](https://artbench.eecs.berkeley.edu/files/ArtBench-10.csv) as a csv file
 * [32x32 CIFAR-python:](https://artbench.eecs.berkeley.edu/files/artbench-10-python.tar.gz) works seamlessly with implementations using [the CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
