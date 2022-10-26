@@ -5,7 +5,7 @@ class ArtBench10(CIFAR10):
     base_folder = "artbench-10-batches-py"
     url = ""
     filename = "artbench-10-python.tar.gz"
-    tgz_md5 = "b116ffdc5e07e162f119149c2ad7403f"
+    tgz_md5 = "9df1e998ee026aae36ec60ca7b44960e"
     train_list = [
         ["data_batch_1", "c2e02a78dcea81fe6fead5f1540e542f"],
         ["data_batch_2", "1102a4dcf41d4dd63e20c10691193448"],
