@@ -3,7 +3,7 @@ from torchvision.datasets import CIFAR10
 class ArtBench10(CIFAR10):
 
     base_folder = "artbench-10-batches-py"
-    url = ""
+    url = "https://artbench.eecs.berkeley.edu/files/artbench-10-python.tar.gz"
     filename = "artbench-10-python.tar.gz"
     tgz_md5 = "9df1e998ee026aae36ec60ca7b44960e"
     train_list = [
